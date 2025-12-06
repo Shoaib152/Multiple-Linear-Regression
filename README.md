@@ -65,3 +65,10 @@ This beginner-friendly ML project covers:
 ```bash
 git clone https://github.com/Shoaib152/mlr-advertising.git
 cd mlr-advertising
+
+---
+
+##  Author
+Shoaib Ahmed
+Python & Machine Learning Learner
+Passionate about Regression Models & Data Analysis
