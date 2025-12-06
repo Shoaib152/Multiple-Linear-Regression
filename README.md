@@ -68,6 +68,6 @@ git clone https://github.com/Shoaib152/Multiple-Linear-Regression/blob/main/READ
 ---
 
 ##  Author
-Shoaib Ahmed
-Python & Machine Learning Learner
-Passionate about Regression Models & Data Analysis
+#### Shoaib Ahmed
+Python & Machine Learning Learner.
+Passionate about Regression Models & Data Analysis.
