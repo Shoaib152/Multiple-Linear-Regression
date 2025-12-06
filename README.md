@@ -62,7 +62,7 @@ This beginner-friendly ML project covers:
 
 1. Clone the repository:
 
-```bash
+
 git clone https://github.com/Shoaib152/mlr-advertising.git
 cd mlr-advertising
 
