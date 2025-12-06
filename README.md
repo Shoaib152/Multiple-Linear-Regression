@@ -63,8 +63,7 @@ This beginner-friendly ML project covers:
 1. Clone the repository:
 
 
-git clone https://github.com/Shoaib152/mlr-advertising.git
-cd mlr-advertising
+git clone https://github.com/Shoaib152/Multiple-Linear-Regression/blob/main/README.md
 
 ---
 
